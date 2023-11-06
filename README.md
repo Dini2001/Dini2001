@@ -1,5 +1,5 @@
 ### Hi there 👋
-author-Dinesh
+INTENSHIP
 
 <!--
 **Dini2001/Dini2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
